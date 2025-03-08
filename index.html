@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adhesive Products</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Adhesive Products</h1>
+    
+    <label for="categoryFilter">Filter by Category:</label>
+    <select id="categoryFilter">
+        <option value="">All</option>
+    </select>
+    
+    <label for="dynamicFilter">Search:</label>
+    <input type="text" id="dynamicFilter" placeholder="Enter value to filter">
+    
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Category</th>
+                <th>Basis</th>
+                <th>Appearance</th>
+                <th>Color</th>
+                <th>Soft. P.</th>
+                <th>Visco 30°C</th>
+                <th>Visco 120°C</th>
+                <th>Visco 140°C</th>
+                <th>Visco 160°C</th>
+                <th>Visco 180°C</th>
+                <th>Visco 200°C</th>
+                <th>Density</th>
+                <th>Solid Content</th>
+                <th>pH</th>
+                <th>Application Temp.</th>
+                <th>Feeding Speed</th>
+                <th>Application Quantity</th>
+                <th>Open Time</th>
+            </tr>
+        </thead>
+        <tbody id="productTableBody">
+            <!-- Data will be inserted dynamically -->
+        </tbody>
+    </table>
+    
+    <script src="script.js"></script>
+</body>
+</html>

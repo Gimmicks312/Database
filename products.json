@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Hotmelt Product 1",
+    "category": "Hotmelt",
+    "basis": "EVA",
+    "appearance": "Granular",
+    "color": "0",
+    "viscosity": {
+      "30": "85,000",
+      "120": "90,000",
+      "140": "95,000",
+      "160": "100,000",
+      "180": "105,000",
+      "200": "110,000"
+    },
+    "density": "1.07 g/cm³",
+    "softeningPoint": "100",
+    "applicationTemperature": "180-210",
+    "feedingSpeed": "10-60 m/min",
+    "solidContent": "",
+    "ph": "",
+    "applicationQuantity": "",
+    "openTime": ""
+  },
+  {
+    "id": "2",
+    "name": "Water Base Product 1",
+    "category": "Water Base",
+    "basis": "PVAc",
+    "appearance": "",
+    "color": "",
+    "viscosity": {
+      "30": "2,000",
+      "120": "",
+      "140": "",
+      "160": "",
+      "180": "",
+      "200": ""
+    },
+    "density": "1.05 g/cm³",
+    "softeningPoint": "",
+    "applicationTemperature": "",
+    "feedingSpeed": "",
+    "solidContent": "50%",
+    "ph": "6",
+    "applicationQuantity": "150-200 g/m²",
+    "openTime": "60 sec"
+  },
+  {
+    "id": "3",
+    "name": "Hotmelt Product 2",
+    "category": "Hotmelt",
+    "basis": "APAO",
+    "appearance": "Pellets",
+    "color": "1",
+    "viscosity": {
+      "30": "90,000",
+      "120": "95,000",
+      "140": "100,000",
+      "160": "105,000",
+      "180": "110,000",
+      "200": "115,000"
+    },
+    "density": "1.08 g/cm³",
+    "softeningPoint": "120",
+    "applicationTemperature": "190-220",
+    "feedingSpeed": "20-70 m/min",
+    "solidContent": "",
+    "ph": "",
+    "applicationQuantity": "",
+    "openTime": ""
+  },
+  {
+    "id": "4",
+    "name": "Water Base Product 2",
+    "category": "Water Base",
+    "basis": "VAE",
+    "appearance": "",
+    "color": "",
+    "viscosity": {
+      "30": "2,500",
+      "120": "",
+      "140": "",
+      "160": "",
+      "180": "",
+      "200": ""
+    },
+    "density": "1.02 g/cm³",
+    "softeningPoint": "",
+    "applicationTemperature": "",
+    "feedingSpeed": "",
+    "solidContent": "40%",
+    "ph": "5.5",
+    "applicationQuantity": "100-150 g/m²",
+    "openTime": "90 sec"
+  }
+]
