@@ -96,3 +96,149 @@
     "openTime": "90 sec"
   }
 ]
+[
+  {
+    "id": "1",
+    "name": "Hotmelt Product 1",
+    "category": "Hotmelt",
+    "basis": "EVA",
+    "appearance": "Granular",
+    "color": "Natural",
+    "viscosity": {
+      "30": "",
+      "120": "215000",
+      "140": "165000",
+      "160": "122000",
+      "180": "105000",
+      "200": "95000"
+    },
+    "density": "1.14 g/cm³",
+    "softeningPoint": "122",
+    "applicationTemperature": "180-210",
+    "feedingSpeed": "10-60 m/min",
+    "solidContent": "",
+    "ph": "",
+    "applicationQuantity": "",
+    "openTime": ""
+  },
+  {
+    "id": "2",
+    "name": "Water Base Product 1",
+    "category": "Water Base",
+    "basis": "PVAc",
+    "appearance": "",
+    "color": "White",
+    "viscosity": {
+      "30": "2000",
+      "120": "",
+      "140": "",
+      "160": "",
+      "180": "",
+      "200": ""
+    },
+    "density": "1.05 g/cm³",
+    "softeningPoint": "",
+    "applicationTemperature": "",
+    "feedingSpeed": "",
+    "solidContent": "50%",
+    "ph": "6",
+    "applicationQuantity": "150-200 g/m²",
+    "openTime": "60 sec"
+  },
+  {
+    "id": "3",
+    "name": "Hotmelt Product 2",
+    "category": "Hotmelt",
+    "basis": "APAO",
+    "appearance": "Pellets",
+    "color": "Beige",
+    "viscosity": {
+      "30": "",
+      "120": "180000",
+      "140": "152000",
+      "160": "136000",
+      "180": "118000",
+      "200": "98000"
+    },
+    "density": "1.38 g/cm³",
+    "softeningPoint": "120",
+    "applicationTemperature": "190-220",
+    "feedingSpeed": "20-70 m/min",
+    "solidContent": "",
+    "ph": "",
+    "applicationQuantity": "",
+    "openTime": ""
+  },
+  {
+    "id": "4",
+    "name": "Water Base Product 2",
+    "category": "Water Base",
+    "basis": "EVA",
+    "appearance": "",
+    "color": "White",
+    "viscosity": {
+      "30": "2500",
+      "120": "",
+      "140": "",
+      "160": "",
+      "180": "",
+      "200": ""
+    },
+    "density": "1.02 g/cm³",
+    "softeningPoint": "",
+    "applicationTemperature": "",
+    "feedingSpeed": "",
+    "solidContent": "40%",
+    "ph": "5.5",
+    "applicationQuantity": "100-150 g/m²",
+    "openTime": "90 sec"
+  },
+  {
+    "id": "5",
+    "name": "Hotmelt Product 3",
+    "category": "Hotmelt",
+    "basis": "PO",
+    "appearance": "Granular",
+    "color": "Black",
+    "viscosity": {
+      "30": "",
+      "120": "75000",
+      "140": "66000",
+      "160": "480000",
+      "180": "32000",
+      "200": "25000"
+    },
+    "density": "0.95 g/cm³",
+    "softeningPoint": "92",
+    "applicationTemperature": "180-210",
+    "feedingSpeed": "10-60 m/min",
+    "solidContent": "",
+    "ph": "",
+    "applicationQuantity": "",
+    "openTime": ""
+  },
+  {
+    "id": "6",
+    "name": "FoamGlue Product 1",
+    "category": "Foam Glue",
+    "basis": "SBS",
+    "appearance": "",
+    "color": "light yellow",
+    "viscosity": {
+      "30": "400",
+      "120": "",
+      "140": "",
+      "160": "",
+      "180": "",
+      "200": ""
+    },
+    "density": "0.91 g/cm³",
+    "softeningPoint": "",
+    "applicationTemperature": "",
+    "feedingSpeed": "",
+    "solidContent": "18%",
+    "ph": "",
+    "applicationQuantity": "80-120 g/m²",
+    "openTime": "3-5 min"
+  }
+]
